@@ -1,2 +1,2 @@
-# dataguy.github.io
+# dataguy.io
 data science project 1
